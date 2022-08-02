@@ -1,0 +1,19 @@
+{
+  "name": "vitest-lit-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lit": "^2.2.8"
+  },
+  "devDependencies": {
+    "jsdom": "^20.0.0",
+    "vitest": "^0.20.2"
+  }
+}
